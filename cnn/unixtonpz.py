@@ -13,7 +13,7 @@ def read_kanji():
     kanji = np.zeros([3036, 200, 127, 128], dtype=np.uint8)
     for i in range(1, 50):
         filename = 'ETL9G/ETL9G_{:02d}'.format(i)
-        with open("/Users/ArnavShah/Desktop/ETL character database/"+filename, 'rb') as f:
+        with open(filename, 'rb') as f:
             for dataset in range(4):
                 moji = 0
                 for j in range(3036):
