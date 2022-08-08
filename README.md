@@ -24,11 +24,13 @@ read was the first major challenge. After searching the internet and analyzing c
 unpack these files (credits to github users melodyfs and yukoba). 
 
 *Building the model*
+
 Initially, I worked with the 879 character database, as it is much smaller, making preprocessing and epoch run times much faster. Ultimately, using ideas 
 I found from Charlie Tsai's paper, "Recognizing Handwritten Japanese Characters Using Deep Convolutional Neural Networks", I was able to create a model that
 classifies those 879 to 96% accuracy. Now the goal of this project is to apply that same model to the 3000+ character database of ETL-9.
 
 *Current Progress* (8/8/22)
+
 Currently, I have coded up the model for ETL-9, however I'm facing a lack of RAM memory (both on my personal machine, as well as Google Colab). Thus, 
 it might be necessary to cut down on the size of the data, and take only 2000 of the 3000 kanji.
 
