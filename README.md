@@ -2,6 +2,11 @@
 Using the ETL character database to develop a CNN that will recognize the top 3000 kanji characters. Then to use that model to make a web app that allows
 users to handwrite unknown kanji and search it up. 
 
+*NOTE*
+The etl-8 (879 kanji work) can be seen in the corresponding etl8 folder. The current project however, using the etl-9 database is found in the folder
+labeled "cnn"
+
+
 *Basic Information*
 
 Kanji are essentially a collection of Chinese characters that were imported into Japan and integrated into their writing system. Although there are 
