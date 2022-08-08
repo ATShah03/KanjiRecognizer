@@ -35,6 +35,7 @@ Currently, I have coded up the model for ETL-9, however I'm facing a lack of RAM
 it might be necessary to cut down on the size of the data, and take only 2000 of the 3000 kanji.
 
 *References*
+
 http://etlcdb.db.aist.go.jp
 https://github.com/melodyfs/Build-OCR
 https://github.com/yukoba/CnnJapaneseCharacter
