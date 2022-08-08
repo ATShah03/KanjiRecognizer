@@ -37,6 +37,9 @@ it might be necessary to cut down on the size of the data, and take only 2000 of
 *References*
 
 http://etlcdb.db.aist.go.jp
+
 https://github.com/melodyfs/Build-OCR
+
 https://github.com/yukoba/CnnJapaneseCharacter
+
 http://cs231n.stanford.edu/reports/2016/pdfs/262_Report.pdf
