@@ -3,8 +3,9 @@ Using the ETL character database to develop a CNN that will recognize the top 30
 users to handwrite unknown kanji and search it up. 
 
 *NOTE*
-The etl-8 (879 kanji work) can be seen in the corresponding etl8 folder. The current project however, using the etl-9 database is found in the folder
-labeled "cnn"
+
+The etl-8 (879 kanji work) can be seen in the corresponding etl8reference folder. The current project however, using the etl-9 database is found in the 
+folder labeled "cnn"
 
 
 *Basic Information*
