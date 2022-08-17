@@ -35,10 +35,8 @@ Initially, I worked with the 879 character database, as it is much smaller, maki
 I found from Charlie Tsai's paper, "Recognizing Handwritten Japanese Characters Using Deep Convolutional Neural Networks", I was able to create a model that
 classifies those 879 to 96% accuracy. Now the goal of this project is to apply that same model to the 3000+ character database of ETL-9.
 
-*Current Progress* (8/8/22)
 
-Currently, I have coded up the model for ETL-9, however I'm facing a lack of RAM memory (both on my personal machine, as well as Google Colab). Thus, 
-it might be necessary to cut down on the size of the data, and take only 2000 of the 3000 kanji.
+Due to facing a lack of RAM memory (both on my personal machine, as well as Google Colab), it was be necessary to cut down on the size of the data, and take only 1500 of the 3000 kanji. Succeeded with a 93% accuracy rate on the validation set. Took ~3 hours to run all 50 epochs.
 
 *References*
 
